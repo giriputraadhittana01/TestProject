@@ -1,7 +1,4 @@
 giri putra adhittana adhittana
 lotto
-<<<<<<< HEAD
 Hello Giri putra bobo
-=======
 Hello Giri putra Adhittana
->>>>>>> ff921d26ba4371582c1914861f679c00ab6ee6a7
