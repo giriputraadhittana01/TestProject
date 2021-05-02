@@ -1,3 +1,2 @@
 add dodo
-added by feature-a
 added by feature-a remote
