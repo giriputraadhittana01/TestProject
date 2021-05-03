@@ -4,3 +4,4 @@ binus
 BN001522764
 Hello emplid
 test
+zone
